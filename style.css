@@ -251,7 +251,7 @@ img {
         font-size: 25px;
     }
     .cuadradosInfinitos div {
-        top: 1400px;
+        display: none;
     }
 }
 
